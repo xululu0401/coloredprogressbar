@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="lib_view_ColoredProgressbar">
+        <attr name="lib_view_radius" format="dimension"/>
+        <attr name="lib_view_strokeWidth" format="dimension"/>
+        <attr name="lib_view_circleColor" format="color"/>
+        <attr name="lib_view_cusPbTextColor" format="color"/>
+        <attr name="lib_view_cusPbTextSize" format="dimension"/>
+        <attr name="lib_view_inner_circleColor" format="color"/>
+        <attr name="lib_view_startColor" format="color"/>
+        <attr name="lib_view_endColor" format="color"/>
+        <attr name="lib_view_text_visible" format="boolean"/>
+    </declare-styleable>
+
+</resources>

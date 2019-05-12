@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.xululu.coloredprogressbar.ColoredProgressBar
+        android:id="@+id/color_pb"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        tools:lib_view_radius = "40dp"
+        tools:lib_view_cusPbTextColor = "#000"
+        tools:lib_view_circleColor="#e00"
+        tools:lib_view_cusPbTextSize = "18sp"
+        tools:lib_view_inner_circleColor = "#0e0"
+        tools:lib_view_strokeWidth = "10dp"/>
+
+
+</RelativeLayout>
